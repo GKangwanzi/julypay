@@ -1,1 +1,1 @@
-# julypay by JulyBrands
+# julyPay
